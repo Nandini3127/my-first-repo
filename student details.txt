@@ -1,0 +1,5 @@
+Name:  Nandini
+Age :20
+Education :Degree
+Address :Anakapalli
+Skills : C,Java,html
